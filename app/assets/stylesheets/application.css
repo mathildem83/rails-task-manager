@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none !important;
+  color:black !important;
+}
+
+a:hover{
+  color: rgb(94, 44, 141) !important;
+}
